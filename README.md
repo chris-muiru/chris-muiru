@@ -43,5 +43,3 @@ Am a kenyan fullstack developer who is obsessed with coding. AM currently workin
 ### :fire: My stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kris-slinger&theme=dark)](https://git.io/streak-stats)
 
-### :fire: Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kris-slinger&theme=dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
