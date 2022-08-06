@@ -32,12 +32,13 @@
 
 
 ## About me
-Am a kenyan fullstack developer who is obsessed with coding. AM currently working on:
+Am a kenyan fullstack developer who is obsessed with coding. Am currently working on:
 
 - :grin: diffrent web authentication mechanisms using django and express.
 - :microscope: version control system.
-- :test_tube: shell scripting
+- :test_tube: Shell scripting
 - :stethoscope: automation 
+- :eyeglasses: api development
 
 
 ### :fire: My stats:
