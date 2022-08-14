@@ -1,5 +1,7 @@
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
+<!-- languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="unix" alt="unix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
@@ -12,7 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src=" https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
 
- 
 </div>
 
 <div align="center">
@@ -22,25 +23,23 @@
     <div id="badges">
         <img src="https://img.shields.io/github/followers/kris-slinger?logoColor=blue&style=for-the-badge">
         <img src="https://img.shields.io/github/stars/kris-slinger?color=red&style=for-the-badge">
-        <img src="https://img.shields.io/github/stars/kris-slinger/spotify_song_dowloader?style=for-the-badge">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/kris-slinger/kris-slinger?style=for-the-badge">
     </div>
     <div>
         <img src="https://komarev.com/ghpvc/?username=kris-slinger&style=flat-square&color=blue" alt=""/>
     </div>
 </div>
 
-
-
 ## About me
+
 Am a kenyan fullstack developer who is obsessed with coding. Am currently working on:
 
-- :grin: diffrent web authentication mechanisms using django and express.
-- :microscope: version control system.
-- :test_tube: Shell scripting
-- :stethoscope: automation 
-- :eyeglasses: api development
-
+-  :grin: diffrent web authentication mechanisms using django and express.
+-  :microscope: version control system.
+-  :test_tube: Shell scripting
+-  :stethoscope: automation
+-  :eyeglasses: api development
 
 ### :fire: My stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kris-slinger&theme=dark)](https://git.io/streak-stats)
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kris-slinger&theme=dark)](https://git.io/streak-stats) -->
