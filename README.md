@@ -42,4 +42,7 @@ Am a kenyan fullstack developer who is obsessed with coding. Am currently workin
 
 ### :fire: My stats:
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kris-slinger&theme=dark)](https://git.io/streak-stats) -->
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kris-slinger&theme=dark)](https://git.io/streak-stats)
+</div>
