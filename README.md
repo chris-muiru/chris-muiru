@@ -1,6 +1,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
 <!-- languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="unix" alt="unix" width="40" height="40"/>&nbsp;
