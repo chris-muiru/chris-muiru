@@ -16,7 +16,7 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tcss" alt="tcss" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tcss" alt="tcss" width="100" height="100"/>&nbsp;
 </div>
 
 <div align="center">
