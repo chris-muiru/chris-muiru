@@ -37,8 +37,11 @@
 
 Am a kenyan fullstack developer who is obsessed with coding. Am currently working on:
 
+-  🔬 Spring AOP and IOC
+-  🎆 Websockets using Stomp and Sockjs
+-  🚔 Spring Authentication and authorisation(JWT,Oauth)
+-  ⏳ Github workflows
 -  :grin: diffrent web authentication mechanisms using django and express.
--  :microscope: version control system.
 -  :test_tube: Shell scripting
 -  :stethoscope: automation
 -  :eyeglasses: api development
