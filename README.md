@@ -33,8 +33,7 @@
     </div>
 </div>
 
-## About me
-
+<h2 align ="center">About me</h2>
 Am a kenyan fullstack developer who is obsessed with coding. Am currently working on:
 
 -  🔬 Spring AOP and IOC
