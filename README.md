@@ -42,8 +42,8 @@ I am Chris, a kenyan  fullstack developer who is obsessed with coding. Currently
 -  ⏳ Github workflows
 -  🛩️ diffrent web authentication mechanisms using django and express.
 -  🧪 Shell scripting
--  🩺 automation
--  👓 api development
+-  🩺 Automation
+-  👓 Api development
 
 ### 🔥 My stats:
 
