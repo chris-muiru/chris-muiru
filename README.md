@@ -34,7 +34,7 @@
 </div>
 
 ## 😄 About me
-I am Chris, a kenyan  fullstack developer who is obsessed with coding. Am currently working on:
+I am Chris, a kenyan  fullstack developer who is obsessed with coding. Currently working on:
 
 -  🔬 Spring AOP and IOC
 -  🎆 Websockets using Stomp and Sockjs
