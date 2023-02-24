@@ -1,4 +1,4 @@
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️Languages and Tools :
 
 <div align="center">
 <!-- languages -->
@@ -33,19 +33,19 @@
     </div>
 </div>
 
-<h2 align ="center">About me</h2>
+## 😄 About me
 Am a kenyan fullstack developer who is obsessed with coding. Am currently working on:
 
 -  🔬 Spring AOP and IOC
 -  🎆 Websockets using Stomp and Sockjs
 -  🚔 Spring Authentication and authorisation(JWT,Oauth)
 -  ⏳ Github workflows
--  :grin: diffrent web authentication mechanisms using django and express.
--  :test_tube: Shell scripting
--  :stethoscope: automation
--  :eyeglasses: api development
+-  🛩️ diffrent web authentication mechanisms using django and express.
+-  🧪 Shell scripting
+-  🩺 automation
+-  👓 api development
 
-### :fire: My stats:
+### 🔥 My stats:
 
 <div align="center">
 
