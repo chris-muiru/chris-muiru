@@ -34,7 +34,7 @@
 </div>
 
 ## 😄 About me
-Am a kenyan fullstack developer who is obsessed with coding. Am currently working on:
+Am a kenyan 🇰🇪 fullstack developer who is obsessed with coding. Am currently working on:
 
 -  🔬 Spring AOP and IOC
 -  🎆 Websockets using Stomp and Sockjs
