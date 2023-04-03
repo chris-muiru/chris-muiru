@@ -34,13 +34,13 @@
 </div>
 
 ## 😄 About me
-I am Chris, a kenyan  fullstack developer who is obsessed with coding. Currently working on:
+I am Chris, a kenyan  fullstack developer obsessed with coding. Currently working on:
 
 -  🔬 Spring AOP and IOC
 -  🎆 Websockets using Stomp and Sockjs
--  🚔 Spring Authentication and authorisation(JWT,Oauth)
+-  🚔 Spring Authentication and authorization(JWT,Oauth)
 -  ⏳ Github workflows
--  🛩️ diffrent web authentication mechanisms using django and express.
+-  🛩️ Diffrent web authentication mechanisms using django and express.
 -  🧪 Shell scripting
 -  🩺 Automation
 -  👓 Api development
