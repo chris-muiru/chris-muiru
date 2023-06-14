@@ -48,6 +48,5 @@ I am Chris, a kenyan  fullstack developer obsessed with coding. Currently workin
 ### 🔥 My stats:
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kris-slinger&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kris-slinger&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
