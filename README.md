@@ -26,7 +26,7 @@
     <div id="badges">
         <img src="https://img.shields.io/github/followers/kris-slinger?logoColor=blue&style=for-the-badge">
         <img src="https://img.shields.io/github/stars/kris-slinger?color=red&style=for-the-badge">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/kris-slinger/kris-slinger?style=for-the-badge">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/chris-muiru/chris-muiru?style=for-the-badge">
     </div>
     <div>
         <img src="https://komarev.com/ghpvc/?username=kris-slinger&style=flat-square&color=blue" alt=""/>
