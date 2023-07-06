@@ -49,7 +49,7 @@ I am Chris, a kenyan  fullstack developer obsessed with coding. Currently workin
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kris-slinger&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=chris-muiru&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
   
   
 </div>
