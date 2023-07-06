@@ -1,4 +1,4 @@
-### 🛠️Languages and Tools :
+### 🛠 Languages and Tools :
 
 <div align="center">
 <!-- languages -->
@@ -29,7 +29,7 @@
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/chris-muiru/chris-muiru?style=for-the-badge">
     </div>
     <div>
-        <img src="https://komarev.com/ghpvc/?username=kris-slinger&style=flat-square&color=blue" alt=""/>
+        <img src="https://komarev.com/ghpvc/?username=chris-muiru&style=flat-square&color=blue" alt=""/>
     </div>
 </div>
 
