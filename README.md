@@ -24,8 +24,8 @@
         <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif">
     </div>
     <div id="badges">
-        <img src="https://img.shields.io/github/followers/kris-slinger?logoColor=blue&style=for-the-badge">
-        <img src="https://img.shields.io/github/stars/kris-slinger?color=red&style=for-the-badge">
+        <img src="https://img.shields.io/github/followers/chris-muiru?logoColor=blue&style=for-the-badge">
+        <img src="https://img.shields.io/github/stars/chris-muiru?color=red&style=for-the-badge">
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/chris-muiru/chris-muiru?style=for-the-badge">
     </div>
     <div>
