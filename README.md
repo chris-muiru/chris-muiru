@@ -28,9 +28,7 @@
         <img src="https://img.shields.io/github/stars/chris-muiru?color=red&style=for-the-badge">
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/chris-muiru/chris-muiru?style=for-the-badge">
     </div>
-    <div>
-        <img src="https://komarev.com/ghpvc/?username=chris-muiru&style=flat-square&color=blue" alt=""/>
-    </div>
+  
 </div>
 
 ## 😄 About me
