@@ -44,6 +44,7 @@ I am Chris, a kenyan  fullstack developer obsessed with coding. Currently workin
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=chris-muiru&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  [![Chris Muiru’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-muiru&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </div>
