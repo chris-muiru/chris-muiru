@@ -40,11 +40,3 @@ I am Chris, a kenyan  fullstack developer obsessed with coding. Currently workin
 -  🩺 Automation
 -  👓 Api development
 
-### 🔥 My stats:
-
-<div align="center">
-  
-  [![Chris Muiru’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-muiru&show_icons=true&theme=dark)](https://github.com/chris-muiru/github-readme-stats)
-
-  
-</div>
